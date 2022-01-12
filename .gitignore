@@ -1,3 +1,2 @@
-/express-api-mysql/node_modules
-/express-mongoose/node_modules
-/express-sequelize/node_modules
+.DS_Store
+.idea
