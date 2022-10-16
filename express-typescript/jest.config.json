@@ -1,0 +1,11 @@
+{
+  "clearMocks": true,
+  "collectCoverage": false,
+  "coverageDirectory": "coverage",
+  "moduleFileExtensions": ["ts", "js"],
+  "preset": "ts-jest",
+  "testEnvironment": "node",
+  "testMatch": ["<rootDir>/src/test/**/*.test.ts"],
+  "rootDir": ".",
+  "verbose": true
+}
